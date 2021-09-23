@@ -1,5 +1,6 @@
 # 🧒​ Bienvenidos a mi repositorio ​🎲​ 
 ## ​🤖​DATOS SOBRE MI 👾
+👋 Hi,
 ### Mi nombre es Diego 🧙​
 ### Tengo 18 años ​🧛​
 ### Estudio la carrera de Ciencias de la Computacion
