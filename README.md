@@ -1,4 +1,4 @@
-                                                                  # 🧒​ Bienvenidos a mi repositorio ​🎲​ 
+# 🧒​ Bienvenidos a mi repositorio ​🎲​ 
 ## ​🤖​DATOS SOBRE MI 👾
 👋 Hi,
 ### Mi nombre es Diego 🧙​
@@ -14,5 +14,6 @@
 - Programar 🆕
 
 - Jugar videojuegos ​🎮​👦🏻​
+- 😄
 
 ![This is an image](https://talently.tech/blog/wp-content/uploads/2021/07/frames-768x497.png)
