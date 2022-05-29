@@ -16,4 +16,4 @@
 - Jugar videojuegos ​🎮​👦🏻​
 - 😄
 
-![This is an image](https://talently.tech/blog/wp-content/uploads/2021/07/frames-768x497.png)
+![This is an image]([https://talently.tech/blog/wp-content/uploads/2021/07/frames-768x497.png](https://nntheblog.b-cdn.net/wp-content/uploads/2022/03/link-clic-season-2.jpg))
