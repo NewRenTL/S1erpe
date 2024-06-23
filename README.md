@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20388
-Fork on GitHub
-6235
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Diego Bustamante</h1>
 <h3 align="center">Am a Full Stack Developer from Perú</h3>
 
